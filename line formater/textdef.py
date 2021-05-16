@@ -11,5 +11,5 @@ while True:
         break
     else:
         fineline.append(lineformater(user_input))
-
+#lol
 print(" ".join(fineline))           
